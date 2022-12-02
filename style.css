@@ -148,7 +148,7 @@ img{
 }
 .con-header h1{
     font-family: Inter-bold;
-    font-size: clamp(4.5rem, 5vw, 5.5rem);
+    font-size: clamp(4rem, 4vw, 5.5rem);
     font-weight: 800;
     line-height: 1.1;
 }
@@ -259,7 +259,6 @@ img{
         gap: 2rem;
     }
     .header{
-        justify-self:flex-start;
         padding-block: 4rem;
     }
     .menu{
@@ -285,11 +284,11 @@ img{
     }
     .hi-content{
         grid-template-columns: 40% 1fr;
-        gap: 5rem;
-        align-items: flex-end;
+        gap: 3rem;
+        align-items: center;
     }
     .hi-btn{
-        margin-top: 4rem;
+        margin-top: 3.5rem;
         transition: .35s all cubic-bezier(0.165, 0.84, 0.44, 1);
     }
     .hi-btn:hover{
