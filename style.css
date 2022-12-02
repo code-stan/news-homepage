@@ -148,7 +148,7 @@ img{
 }
 .con-header h1{
     font-family: Inter-bold;
-    font-size: clamp(4rem, 4vw, 5.5rem);
+    font-size: clamp(4rem, 5vw, 5.5rem);
     font-weight: 800;
     line-height: 1.1;
 }
@@ -283,7 +283,7 @@ img{
         color: var(--Soft-red);
     }
     .hi-content{
-        grid-template-columns: 40% 1fr;
+        grid-template-columns: 45% 1fr;
         gap: 3rem;
         align-items: center;
     }
