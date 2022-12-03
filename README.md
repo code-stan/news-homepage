@@ -25,6 +25,7 @@ I the user should be able to provide this functionalities:
 ![This challenge was done w/ (HTML, CSS AND JAVASCRIPT)](.)
 
 ## My Links
-[My Web Portfolio](https://www.codestan.netlify.app)
-[Frontend Mentor](https://www.frontendmentor.io)
-[Twitter](https://www.twitter.com/codestanley)
+
+- [My Portfolio](https://www.codestan.netlify.app)
+- [Frontend Mentor](https://www.frontendmentor.io)
+- [Twitter](https://www.twitter.com/codestanley)
